@@ -21,6 +21,4 @@ public class MathUtil {
     }
     //welcome 
     //test 2
-    // test 5 test hiếu sinh 
 
-}
