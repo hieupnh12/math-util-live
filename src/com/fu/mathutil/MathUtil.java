@@ -1,5 +1,3 @@
-/*
- */
 package com.fu.mathutil;
 
 public class MathUtil {
@@ -14,9 +12,7 @@ public class MathUtil {
         if (n == 0 || n == 1) {
             return 1;
         }
-        
-        
-        
+
         long product = 1;
         for (int i = 1; i <= n; i++) {
             product *= i;
@@ -25,5 +21,4 @@ public class MathUtil {
     }
     //welcome 
     //test 2
-    // test 5 test hiếu sinh
-}
+
